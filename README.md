@@ -17,7 +17,7 @@
 - Cloud Infrastructure Operations
 
 
-#### Certifications
+#### 🏅 Certifications
 - Microsoft Azure Fundamentals (AZ-900)
 - Skillsoft Windows Desktop Administration 
 - Skillsoft Technical Support Specialist (Basic, Intermediate, and Advanced)
