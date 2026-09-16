@@ -18,7 +18,7 @@
 
 
 #### 🏅 Certifications
-- Microsoft Azure Fundamentals (AZ-900)
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/CharlesTremols-9637/6C37F9221DF34163?sharingId=326F75E35AC09464)
 - Skillsoft Windows Desktop Administration 
 - Skillsoft Technical Support Specialist (Basic, Intermediate, and Advanced)
 
