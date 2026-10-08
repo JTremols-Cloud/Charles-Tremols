@@ -35,4 +35,4 @@
 
 ## 🌐 Connect With Me
 - 💼 [LinkedIn: Charles Tremols](https://www.linkedin.com/in/charles-tremols/)
-- 📧 [cjtremols@gmail.com](mailto:cjtremols@gmail.com)
+- 📧 [JTremols-Cloud@proton.me](mailto:JTremols-Cloud@proton.me)
